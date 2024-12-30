@@ -1,0 +1,10 @@
+/* Global */
+/* ------------------------------------ */
+@import "./global/fonts.css";
+@import "./global/reboot.css";
+@import "./global/container.css";
+@import "./global/visually-hidden.css";
+@import "./global/normalize.css";
+
+/* Blocks */
+/* ------------------------------------ */

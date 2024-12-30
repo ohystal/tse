@@ -1,0 +1,1 @@
+(()=>{var n=fetch("/api/tracks").then((function(n){return n.json()}));console.log(n)})();
